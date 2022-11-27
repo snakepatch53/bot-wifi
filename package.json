@@ -1,0 +1,20 @@
+{
+    "name": "bot-wifi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./index.js",
+        "scraping": "node ./scraping.test.js",
+        "bot": "node ./bot.test.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "playwright": "1.26.1",
+        "qrcode-terminal": "^0.12.0",
+        "whatsapp-web.js": "1.17.1"
+    }
+}

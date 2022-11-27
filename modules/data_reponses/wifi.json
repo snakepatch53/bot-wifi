@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Saludo inicial",
+        "triggers": ["*"],
+        "responses": "Hola que tal, en que podemos ayudarte: ",
+        "options": [2, 3],
+        "js_code": false
+    },
+    {
+        "id": 2,
+        "name": "Cambiar clave",
+        "triggers": ["cambiar clave", "clave"],
+        "responses": "Ayudame con tu nombre ✌️",
+        "options": 4,
+        "js_code": false
+    },
+    {
+        "id": 3,
+        "name": "Cambiar ssid",
+        "triggers": ["cambiar ssid", "ssid"],
+        "responses": "Ayudame con tu nombre ✌️",
+        "options": [],
+        "js_code": false
+    },
+    {
+        "id": 4,
+        "name": "Verificar nombre para cambio de clave",
+        "triggers": [],
+        "responses": "Dame un momento para encontrarte en la base de datos ⌛",
+        "options": 5,
+        "js_code": {
+            "code": 1,
+            "name": "comprobar_usuario",
+            "true_response": "Escribe tu nueva clave por favor",
+            "false_response": "Lo sentimos pero no te encontramos"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Pedir nueva clave",
+        "triggers": [],
+        "responses": "Ok cambiaremos tu clave, recuerda conectarte a la red nuevamente. Ahora espera un momento ⌛",
+        "options": [],
+        "js_code": {
+            "code": 2,
+            "name": "guardar_nueva_clave",
+            "true_response": "Listo hemos cambiado tu clave",
+            "false_response": "Algo malio sal"
+        }
+    }
+]

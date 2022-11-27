@@ -1,0 +1,10 @@
+[1016/184916.295:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/img/favicon-error2_fb2afa4bfd23495c7bd2555bb080bb35.png" resulted in a network error response: the promise was rejected.", source:  (0)
+[1016/184916.295:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[1016/184917.370:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/img/favicon-error2_fb2afa4bfd23495c7bd2555bb080bb35.png" resulted in a network error response: the promise was rejected.", source:  (0)
+[1016/184917.371:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[1016/184918.428:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1016/184918.452:INFO:CONSOLE(0)] "The FetchEvent for "https://web.whatsapp.com/img/favicon-error2_fb2afa4bfd23495c7bd2555bb080bb35.png" resulted in a network error response: the promise was rejected.", source:  (0)
+[1016/184918.452:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://web.whatsapp.com/serviceworker.js (1)
+[1016/184923.432:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1016/223301.724:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.
+[1016/223302.558:WARNING:dns_config_service_win.cc(509)] Failed to read DnsConfig.

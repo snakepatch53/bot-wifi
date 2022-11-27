@@ -1,0 +1,23 @@
+[
+    "ESTE ARCHIVO SIRVE UNICAMENTE PARA GUIARME SOBRE LOS CODIGOS QUE USARE PARA EJECUTAR FUNCIONES",
+    {
+        "code": false,
+        "descr": "no ejecuta nada"
+    },
+    {
+        "code": 1,
+        "descr": "cambia clave del wifi"
+    },
+    {
+        "code": 2,
+        "descr": "cambia SSID del wifi"
+    },
+    {
+        "code": 3,
+        "descr": "verificamos el numero del cliente"
+    },
+    {
+        "code": 4,
+        "descr": "verificamos antigua clave de wifi del cliente"
+    }
+]

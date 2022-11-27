@@ -1,0 +1,38 @@
+2022/10/16-18:17:13.125 26e0 Reusing MANIFEST C:\Users\Harold\Documents\Projects\bot-wifi\.wwebjs_auth\session-localauth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/16-18:17:13.125 26e0 Recovering log #734
+2022/10/16-18:17:13.208 26e0 Reusing old log C:\Users\Harold\Documents\Projects\bot-wifi\.wwebjs_auth\session-localauth\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000734.log 
+2022/10/16-18:17:24.319 d28 Level-0 table #749: started
+2022/10/16-18:17:24.334 d28 Level-0 table #749: 1263296 bytes OK
+2022/10/16-18:17:24.335 d28 Delete type=0 #734
+2022/10/16-18:17:24.339 d28 Compacting 1@0 + 0@1 files
+2022/10/16-18:17:24.356 d28 Generated table #750@0: 18772 keys, 495244 bytes
+2022/10/16-18:17:24.356 d28 Compacted 1@0 + 0@1 files => 495244 bytes
+2022/10/16-18:17:24.357 d28 compacted to: files[ 0 1 10 0 0 0 0 ]
+2022/10/16-18:17:24.468 4d5c Compacting 1@1 + 10@2 files
+2022/10/16-18:17:24.505 4d5c Generated table #751@1: 29305 keys, 2259706 bytes
+2022/10/16-18:17:24.540 4d5c Generated table #752@1: 23320 keys, 2281522 bytes
+2022/10/16-18:17:24.573 4d5c Generated table #753@1: 23342 keys, 2280958 bytes
+2022/10/16-18:17:24.613 4d5c Generated table #754@1: 23267 keys, 2275580 bytes
+2022/10/16-18:17:24.647 4d5c Generated table #755@1: 23248 keys, 2274316 bytes
+2022/10/16-18:17:24.689 4d5c Generated table #756@1: 23844 keys, 2280009 bytes
+2022/10/16-18:17:24.723 4d5c Generated table #757@1: 23227 keys, 2278028 bytes
+2022/10/16-18:17:24.773 4d5c Generated table #758@1: 91204 keys, 2270808 bytes
+2022/10/16-18:17:24.820 4d5c Generated table #759@1: 88693 keys, 2284782 bytes
+2022/10/16-18:17:24.852 4d5c Generated table #760@1: 42674 keys, 1766061 bytes
+2022/10/16-18:17:24.852 4d5c Compacted 1@1 + 10@2 files => 22251770 bytes
+2022/10/16-18:17:24.852 4d5c compacted to: files[ 0 0 10 0 0 0 0 ]
+2022/10/16-18:17:24.852 4d5c Delete type=2 #737
+2022/10/16-18:17:24.852 4d5c Delete type=2 #738
+2022/10/16-18:17:24.852 4d5c Delete type=2 #739
+2022/10/16-18:17:24.852 4d5c Delete type=2 #740
+2022/10/16-18:17:24.852 4d5c Delete type=2 #741
+2022/10/16-18:17:24.853 4d5c Delete type=2 #742
+2022/10/16-18:17:24.853 4d5c Delete type=2 #743
+2022/10/16-18:17:24.853 4d5c Delete type=2 #744
+2022/10/16-18:17:24.853 4d5c Delete type=2 #745
+2022/10/16-18:17:24.853 4d5c Delete type=2 #746
+2022/10/16-18:17:24.853 4d5c Delete type=2 #749
+2022/10/16-18:17:24.853 4d5c Delete type=2 #750
+2022/10/16-22:33:17.770 49e4 Level-0 table #762: started
+2022/10/16-22:33:17.782 49e4 Level-0 table #762: 1220482 bytes OK
+2022/10/16-22:33:17.783 49e4 Delete type=0 #748
